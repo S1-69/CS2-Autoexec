@@ -1,0 +1,12 @@
+*
+!README.md
+!autoexec.cfg
+!knifeMenu.cfg
+!.gitignore
+
+!autoexec
+!autoexec/**
+!gamemodes
+!gamemodes/**
+!.vscode
+!.vscode/**
